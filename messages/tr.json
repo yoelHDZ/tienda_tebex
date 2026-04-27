@@ -1,0 +1,143 @@
+{
+  "Navbar": {
+    "home": "Ana Sayfa",
+    "store": "Mağaza",
+    "vote": "Oy Ver",
+    "blog": "Blog",
+    "rules": "Kurallar",
+    "wiki": "Wiki",
+    "login": "Giriş Yap",
+    "online": "Çevrimiçi"
+  },
+  "Hero": {
+    "playNow": "Şimdi Oyna",
+    "discord": "Discord",
+    "online": "Çevrimiçi"
+  },
+  "NotFound": {
+    "404": "404",
+    "pageNotFound": "Sayfa bulunamadı",
+    "sorry": "Üzgünüz, aradığınız sayfa mevcut değil veya taşınmış olabilir.",
+    "goHome": "Ana sayfaya dön"
+  },
+  "Login": {
+    "toStartShopping": "Alışverişe başlamak için",
+    "shoppingAs": "{name} olarak alışveriş yapılıyor",
+    "javaEdition": "Java Sürümü",
+    "bedrockEdition": "Bedrock Sürümü",
+    "enterUsername": "Kullanıcı adınızı girin",
+    "discordIdOptional": "Discord ID (isteğe bağlı)",
+    "login": "Giriş Yap",
+    "usernameRequired": "Kullanıcı adı gerekli",
+    "pleaseEnterUsername": "Lütfen kullanıcı adınızı girin",
+    "error": "Hata!",
+    "errorOccurred": "Bir hata oluştu"
+  },
+  "Join": {
+    "joinUsingIp": "Aşağıdaki IP ile katılın",
+    "useIpBelow": "Sunucuya katılmak için aşağıdaki IP’yi kullanın:",
+    "javaIp": "Java IP",
+    "bedrockIp": "Bedrock IP",
+    "bedrockPort": "Bedrock Port",
+    "close": "Kapat",
+    "joinServer": "Sunucuya Katıl",
+    "joinToGetRewards": "Ödüllerini almak için sunucuya katıl!"
+  },
+  "Store": {
+    "featuredPackages": "Öne çıkan paketler",
+    "recentPurchases": "Son satın alımlar",
+    "welcome": "{server_name} mağazasına hoş geldiniz",
+    "description": "Buradan {server_name} Minecraft sunucusu için coin, rütbe ve daha fazlasını satın alabilirsiniz! Kategorilere göz atarak başlayın, beğendiğiniz bir ürünü seçin ve detaylarını görüntüleyin. Ürünleri sepete ekleyin ve hazır olduğunuzda ödeme yapın. Sorularınız varsa Discord sunucumuza katılın.",
+    "paymentMethodsTitle": "Hangi ödeme yöntemlerini kabul ediyorsunuz?",
+    "paymentMethods": "PayPal, kredi kartları ve daha fazlası dahil olmak üzere çeşitli ödeme yöntemlerini kabul ediyoruz.",
+    "addToCart": "Sepete ekle",
+    "productAdded": "Ürün eklendi!",
+    "checkout": "Ödeme",
+    "total": "Toplam: {amount}",
+    "buyAgain": "Tekrar satın al",
+    "ranksComparison": "Rütbe karşılaştırması",
+    "compareRanksAndFeatures": "Rütbeleri ve özellikleri karşılaştır",
+    "communityGoal": "Topluluk Hedefi",
+    "topDonator": "En Çok Bağış Yapan",
+    "needHelp": "Yardıma mı ihtiyacın var?",
+    "joinDiscordForHelp": "Satın alma konusunda yardım almak için Discord sunucumuza katılın.",
+    "joinDiscord": "Discord'a Katıl",
+    "error": "Hata!",
+    "all": "Tümü"
+  },
+  "Sale": {
+    "onlyRemaining": "Yalnızca <strong>{time}</strong> kaldı!",
+    "saleEnded": "İndirim sona erdi"
+  },
+  "Basket": {
+    "total": "Toplam: {amount}",
+    "checkout": "Ödeme"
+  },
+  "Completed": {
+    "purchaseCompleted": "Satın alma işleminiz tamamlandı!",
+    "useButtonToReturn": "Mağazaya geri dönmek için aşağıdaki butonu kullanın",
+    "backToStore": "Mağazaya Dön"
+  },
+  "Vote": {
+    "howToVote": "Nasıl oy verilir",
+    "toEarnRewards": "Ödül kazanmak için {server_name} sunucusuna aşağıdaki sitelerden oy vermeniz gerekiyor:",
+    "step1": "Yukarıdaki oy bağlantısına tıklayın.",
+    "step2": "Kullanıcı adınızı girin ve oy ver butonuna basın.",
+    "step3": "Oy kaydınız için oyun içi onay mesajını bekleyin.",
+    "thankYou": "Oy verdiğiniz için teşekkürler!",
+    "yourVoteHelps": "Oylarınız sunucunun ve topluluğun büyümesine yardımcı olur. Desteğiniz için teşekkürler! Oy verdikten kısa süre sonra ödülleriniz oyun içinde teslim edilir."
+  },
+  "Rules": {
+    "title": "Kurallar",
+    "description": "Herkes için güvenli ve keyifli bir deneyim sağlamak adına lütfen tüm kurallara uyun.",
+    "joinServer": "Sunucuya Katıl",
+    "joinToGetRewards": "Ödüllerini almak için sunucuya katıl!",
+    "serverRules": "Sunucu Kuralları",
+    "discordRules": "Discord Kuralları",
+    "noCheating": "Hile Yok",
+    "noCheatingDesc": "İzinsiz modlar, hileler veya açıklar kullanmak kesinlikle yasaktır.",
+    "respectOthers": "Başkalarına Saygı",
+    "respectOthersDesc": "Tüm oyunculara ve personele saygılı olun. Taciz, ayrımcılık veya nefret söylemi kabul edilmez.",
+    "noGriefing": "Griefing Yok",
+    "noGriefingDesc": "İzinsiz olarak başkasının yapısını yok etmeyin, çalmayın veya değiştirmeyin.",
+    "noAdvertising": "Reklam Yasak",
+    "noAdvertisingDesc": "Diğer sunucuların veya hizmetlerin reklamı yapılamaz.",
+    "keepChatAppropriate": "Sohbette Uygun Davran",
+    "keepChatAppropriateDesc": "Spam, aşırı küfür veya uygunsuz içerikten kaçının.",
+    "followDiscordTos": "Discord Hizmet Şartlarına Uy",
+    "followDiscordTosDesc": "Tüm üyeler Discord’un Hizmet Şartları ve Topluluk Kuralları’na uymalıdır.",
+    "noSpamming": "Spam Yapma",
+    "noSpammingDesc": "Tekrarlanan mesajlar, emojiler veya bağlantılar göndermekten kaçının.",
+    "respectPrivacy": "Gizliliğe Saygı",
+    "respectPrivacyDesc": "Kendinizin veya başkalarının kişisel bilgilerini paylaşmayın.",
+    "noNsfwContent": "NSFW İçerik Yok",
+    "noNsfwContentDesc": "NSFW veya uygunsuz içerik paylaşmak kesinlikle yasaktır.",
+    "useChannelsProperly": "Kanalları Doğru Kullan",
+    "useChannelsProperlyDesc": "Tartışmaları kanal konularına uygun tutun."
+  },
+  "Blog": {
+    "welcome": "Bloga Hoş Geldiniz",
+    "discover": "Topluluğumuzdan en son haberleri, güncellemeleri ve hikayeleri keşfedin.",
+    "latest": "En Yeni",
+    "readArticle": "Makaleyi oku",
+    "needHelp": "Yardıma mı ihtiyacın var?",
+    "joinDiscordHelp": "Satın alma konusunda yardım için Discord sunucumuza katılın.",
+    "joinDiscord": "Discord'a Katıl",
+    "search": "Ara",
+    "noPostsFound": "Hiç blog gönderisi bulunamadı.",
+    "needHelpSomething": "Bir konuda yardıma mı ihtiyacınız var?",
+    "askTeam": "Discord sunucumuza gelin ve ekibimize sorunuzu sorun.",
+    "moreFromUs": "Bizden daha fazlası",
+    "exploreTopPosts": "Sizin için özel olarak seçilmiş en iyi gönderilerimizi keşfedin! Göz atın ve düşüncelerinizi paylaşın.",
+    "readMore": "Devamını oku",
+    "recommendedBlogs": "Önerilen Bloglar",
+    "by": "{name} tarafından"
+  },
+  "Categories": {
+    "more": "Daha fazla",
+    "less": "Daha az"
+  },
+  "Errors": {
+    "error": "Hata!"
+  }
+}

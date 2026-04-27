@@ -1,0 +1,146 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "store": "Store",
+    "vote": "Vote",
+    "blog": "Blog",
+    "rules": "Rules",
+    "wiki": "Wiki",
+    "login": "Login",
+    "online": "Online"
+  },
+  "Hero": {
+    "playNow": "Play Now",
+    "discord": "Discord",
+    "online": "Online"
+  },
+  "NotFound": {
+    "404": "404",
+    "pageNotFound": "Page not found",
+    "sorry": "Sorry, the page you are looking for does not exist or has been moved.",
+    "goHome": "Go to homepage"
+  },
+  "Login": {
+    "toStartShopping": "To start shopping",
+    "shoppingAs": "Shopping as {name}",
+    "javaEdition": "Java Edition",
+    "bedrockEdition": "Bedrock Edition",
+    "enterUsername": "Enter your username",
+    "discordIdOptional": "Discord ID (optional)",
+    "login": "Login",
+    "loginToShop": "Login to shop",
+    "usernameRequired": "Username is required",
+    "pleaseEnterUsername": "Please enter your username",
+    "error": "Error!",
+    "errorOccurred": "An error occurred"
+  },
+  "Join": {
+    "joinUsingIp": "Join using the IP below",
+    "useIpBelow": "Use the IP below to join the server:",
+    "javaIp": "Java IP",
+    "bedrockIp": "Bedrock IP",
+    "bedrockPort": "Bedrock Port",
+    "close": "Close",
+    "joinServer": "Join the server",
+    "joinToGetRewards": "Join the server to get your rewards!"
+  },
+  "Store": {
+    "featuredPackages": "Featured packages",
+    "recentPurchases": "Recent purchases",
+    "welcome": "Welcome to the {server_name} store",
+    "description": "Here you can buy coins, ranks and more for the {server_name} Minecraft server! Start by browing our list of categories, pickout something you like and click on it to view the products. Add the items to your basket and checkout when you're ready. If you have any questions, please join our Discord server.",
+    "paymentMethodsTitle": "What payment methods do you accept?",
+    "paymentMethods": "We accept a variety of payment methods, including PayPal, credit cards, and more.",
+    "addToCart": "Add to cart",
+    "productAdded": "Product added!",
+    "checkout": "Checkout",
+    "total": "Total: {amount}",
+    "buyAgain": "Buy again",
+    "ranksComparison": "Ranks comparison",
+    "compareRanksAndFeatures": "Compare ranks and features",
+    "communityGoal": "Community Goal",
+    "topDonator": "Top Donator",
+    "needHelp": "Need help?",
+    "joinDiscordForHelp": "Join our Discord server for help with your purchase.",
+    "joinDiscord": "Join the Discord",
+    "error": "Error!",
+    "all": "All"
+  },
+  "Sale": {
+    "onlyRemaining": "Only <strong>{time}</strong> remaining!",
+    "saleEnded": "Sale has ended"
+  },
+  "Basket": {
+    "total": "Total: {amount}",
+    "checkout": "Checkout"
+  },
+  "Completed": {
+    "purchaseCompleted": "Your purchase has been completed!",
+    "useButtonToReturn": "Use the button below to go back to the store",
+    "backToStore": "Back to store"
+  },
+  "Vote": {
+    "howToVote": "How to vote",
+    "toEarnRewards": "To earn rewards, you must vote for {server_name} on the following websites:",
+    "step1": "Click on the voting link above.",
+    "step2": "Enter your username and click on the vote button.",
+    "step3": "Wait for the confirmation message in-game for your vote to be registered.",
+    "thankYou": "Thank you for voting!",
+    "yourVoteHelps": "Your vote helps to grow the server and community. Thank you for your support! You will receive your rewards in-game shortly after voting."
+  },
+  "Rules": {
+    "title": "Rules",
+    "description": "Please read and follow all rules to ensure a safe and enjoyable experience for everyone.",
+    "joinServer": "Join the server",
+    "joinToGetRewards": "Join the server to get your rewards!",
+    "serverRules": "Server Rules",
+    "discordRules": "Discord Rules",
+    "noCheating": "No Cheating",
+    "noCheatingDesc": "Any use of unauthorised modifications, hacks, or exploits is strictly prohibited.",
+    "respectOthers": "Respect Others",
+    "respectOthersDesc": "Treat all players and staff with respect. Harassment, discrimination, or hate speech will not be tolerated.",
+    "noGriefing": "No Griefing",
+    "noGriefingDesc": "Do not destroy, steal, or alter another player's builds or belongings without permission.",
+    "noAdvertising": "No Advertising",
+    "noAdvertisingDesc": "Advertising other servers or services is not allowed.",
+    "keepChatAppropriate": "Keep Chat Appropriate",
+    "keepChatAppropriateDesc": "Avoid spamming, excessive swearing, or inappropriate content in chat.",
+    "followDiscordTos": "Follow Discord TOS",
+    "followDiscordTosDesc": "All members must adhere to Discord's Terms of Service and Community Guidelines.",
+    "noSpamming": "No Spamming",
+    "noSpammingDesc": "Avoid sending repeated messages, emojis, or links.",
+    "respectPrivacy": "Respect Privacy",
+    "respectPrivacyDesc": "Do not share personal information of yourself or others.",
+    "noNsfwContent": "No NSFW Content",
+    "noNsfwContentDesc": "Sharing NSFW or inappropriate content is strictly forbidden.",
+    "useChannelsProperly": "Use Channels Properly",
+    "useChannelsProperlyDesc": "Keep discussions relevant to the channel topics."
+  },
+  "Blog": {
+    "welcome": "Welcome to the blog",
+    "discover": "Discover the latest news, updates, and stories from our community.",
+    "latest": "Latest",
+    "readArticle": "Read article",
+    "needHelp": "Need help?",
+    "joinDiscordHelp": "Join our Discord server for help with your purchase.",
+    "joinDiscord": "Join the Discord",
+    "search": "Search",
+    "noPostsFound": "No blog posts found.",
+    "needHelpSomething": "Need help with something?",
+    "askTeam": "Head over to our Discord server and ask our team for help.",
+    "moreFromUs": "More from us",
+    "exploreTopPosts": "Explore some of our top posts, specially curated for you! Have a look and share your thoughts.",
+    "readMore": "Read more",
+    "recommendedBlogs": "Recommended Blogs",
+    "posted": "Posted",
+    "backToBlog": "Back to blog",
+    "by": "By {name}"
+  },
+  "Categories": {
+    "more": "More",
+    "less": "Less"
+  },
+  "Errors": {
+    "error": "Error!"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "Navbar": {
+    "home": "Accueil",
+    "store": "Boutique",
+    "vote": "Vote",
+    "blog": "Blog",
+    "rules": "Règles",
+    "wiki": "Wiki",
+    "login": "Connexion",
+    "online": "En ligne"
+  },
+  "Hero": {
+    "playNow": "Jouer maintenant",
+    "discord": "Discord",
+    "online": "En ligne"
+  },
+  "NotFound": {
+    "404": "404",
+    "pageNotFound": "Page non trouvée",
+    "sorry": "Désolé, la page que vous cherchez n'existe pas ou a été déplacée.",
+    "goHome": "Aller à l'accueil"
+  },
+  "Login": {
+    "toStartShopping": "Pour commencer vos achats",
+    "shoppingAs": "Achat en tant que {name}",
+    "javaEdition": "Édition Java",
+    "bedrockEdition": "Édition Bedrock",
+    "enterUsername": "Entrez votre nom d'utilisateur",
+    "discordIdOptional": "ID Discord (facultatif)",
+    "login": "Connexion",
+    "loginToShop": "Connectez-vous pour acheter",
+    "usernameRequired": "Nom d'utilisateur requis",
+    "pleaseEnterUsername": "Veuillez entrer votre nom d'utilisateur",
+    "error": "Erreur !",
+    "errorOccurred": "Une erreur est survenue"
+  },
+  "Join": {
+    "joinUsingIp": "Rejoignez en utilisant l'IP ci-dessous",
+    "useIpBelow": "Utilisez l'IP ci-dessous pour rejoindre le serveur :",
+    "javaIp": "IP Java",
+    "bedrockIp": "IP Bedrock",
+    "bedrockPort": "Port Bedrock",
+    "close": "Fermer",
+    "joinServer": "Rejoindre le serveur",
+    "joinToGetRewards": "Rejoignez le serveur pour recevoir vos récompenses !"
+  },
+  "Store": {
+    "featuredPackages": "Offres en vedette",
+    "recentPurchases": "Achats récents",
+    "welcome": "Bienvenue dans la boutique de {server_name}",
+    "description": "Ici, vous pouvez acheter des pièces, des grades et plus encore pour le serveur Minecraft {server_name}. Commencez par parcourir notre liste de catégories, choisissez ce qui vous plaît et cliquez pour voir les produits. Ajoutez-les à votre panier et finalisez votre achat quand vous êtes prêt. Si vous avez des questions, rejoignez notre serveur Discord.",
+    "paymentMethodsTitle": "Quels moyens de paiement acceptez-vous ?",
+    "paymentMethods": "Nous acceptons divers moyens de paiement, notamment PayPal, cartes bancaires, et plus.",
+    "addToCart": "Ajouter au panier",
+    "productAdded": "Produit ajouté !",
+    "checkout": "Paiement",
+    "total": "Total : {amount}",
+    "buyAgain": "Acheter à nouveau",
+    "ranksComparison": "Comparaison des grades",
+    "compareRanksAndFeatures": "Comparer les grades et fonctionnalités",
+    "communityGoal": "Objectif communautaire",
+    "topDonator": "Meilleur donateur",
+    "needHelp": "Besoin d'aide ?",
+    "joinDiscordForHelp": "Rejoignez notre serveur Discord pour toute assistance concernant votre achat.",
+    "joinDiscord": "Rejoindre Discord",
+    "error": "Erreur !",
+    "all": "Tout"
+  },
+  "Sale": {
+    "onlyRemaining": "Il reste seulement <strong>{time}</strong> !",
+    "saleEnded": "La promotion est terminée"
+  },
+  "Basket": {
+    "total": "Total : {amount}",
+    "checkout": "Paiement"
+  },
+  "Completed": {
+    "purchaseCompleted": "Votre achat a été complété !",
+    "useButtonToReturn": "Utilisez le bouton ci-dessous pour revenir à la boutique",
+    "backToStore": "Retour à la boutique"
+  },
+  "Vote": {
+    "howToVote": "Comment voter",
+    "toEarnRewards": "Pour obtenir des récompenses, vous devez voter pour {server_name} sur les sites ci-dessous :",
+    "step1": "Cliquez sur le lien de vote ci-dessus.",
+    "step2": "Entrez votre nom d'utilisateur et cliquez sur le bouton pour voter.",
+    "step3": "Attendez le message de confirmation en jeu pour que votre vote soit enregistré.",
+    "thankYou": "Merci pour votre vote !",
+    "yourVoteHelps": "Votre vote aide à faire grandir le serveur et la communauté. Merci pour votre soutien ! Vous recevrez vos récompenses en jeu peu après votre vote."
+  },
+  "Rules": {
+    "title": "Règles",
+    "description": "Veuillez lire et respecter toutes les règles afin de garantir une expérience sûre et agréable pour tous.",
+    "joinServer": "Rejoindre le serveur",
+    "joinToGetRewards": "Rejoignez le serveur pour recevoir vos récompenses !",
+    "serverRules": "Règles du serveur",
+    "discordRules": "Règles Discord",
+    "noCheating": "Triche interdite",
+    "noCheatingDesc": "L'utilisation de mods non autorisés, hacks ou exploits est strictement interdite.",
+    "respectOthers": "Respectez les autres",
+    "respectOthersDesc": "Traitez tous les joueurs et le personnel avec respect. Le harcèlement, la discrimination ou les propos haineux ne sont pas tolérés.",
+    "noGriefing": "Grief interdit",
+    "noGriefingDesc": "Ne détruisez pas, ne volez pas et ne modifiez pas les constructions ou objets d'autres joueurs sans permission.",
+    "noAdvertising": "Publicité interdite",
+    "noAdvertisingDesc": "La promotion d'autres serveurs ou services n'est pas autorisée.",
+    "keepChatAppropriate": "Chat approprié",
+    "keepChatAppropriateDesc": "Évitez le spam, les insultes excessives ou le contenu inapproprié.",
+    "followDiscordTos": "Respectez les CGU de Discord",
+    "followDiscordTosDesc": "Tous les membres doivent respecter les Conditions d'Utilisation et les Règles de la communauté Discord.",
+    "noSpamming": "Pas de spam",
+    "noSpammingDesc": "Évitez les messages, emojis ou liens répétés.",
+    "respectPrivacy": "Respectez la vie privée",
+    "respectPrivacyDesc": "Ne partagez pas d'informations personnelles vous concernant ou concernant d'autres personnes.",
+    "noNsfwContent": "Contenu NSFW interdit",
+    "noNsfwContentDesc": "Le contenu NSFW ou inapproprié est strictement interdit.",
+    "useChannelsProperly": "Utilisez correctement les salons",
+    "useChannelsProperlyDesc": "Gardez les discussions pertinentes au thème du salon."
+  },
+  "Blog": {
+    "welcome": "Bienvenue sur le blog",
+    "discover": "Découvrez les dernières nouvelles, mises à jour et histoires de notre communauté.",
+    "latest": "Dernier",
+    "readArticle": "Lire l'article",
+    "needHelp": "Besoin d'aide ?",
+    "joinDiscordHelp": "Rejoignez notre serveur Discord pour toute aide concernant votre achat.",
+    "joinDiscord": "Rejoindre Discord",
+    "search": "Rechercher",
+    "noPostsFound": "Aucun article de blog trouvé.",
+    "needHelpSomething": "Besoin d'aide avec quelque chose ?",
+    "askTeam": "Rendez-vous sur notre serveur Discord et demandez de l'aide à notre équipe.",
+    "moreFromUs": "Plus de nous",
+    "exploreTopPosts": "Explorez certains de nos meilleurs articles, spécialement sélectionnés pour vous. Consultez-les et partagez vos avis !",
+    "readMore": "Lire la suite",
+    "recommendedBlogs": "Blogs recommandés",
+    "posted": "Publié",
+    "backToBlog": "Retour au blog",
+    "by": "Par {name}"
+  },
+  "Categories": {
+    "more": "Plus",
+    "less": "Moins"
+  },
+  "Errors": {
+    "error": "Erreur !"
+  }
+}

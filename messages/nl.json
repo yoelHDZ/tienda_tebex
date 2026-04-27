@@ -1,0 +1,143 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "store": "Winkel",
+    "vote": "Stem",
+    "blog": "Blog",
+    "rules": "Regels",
+    "wiki": "Wiki",
+    "login": "Inloggen",
+    "online": "Online"
+  },
+  "Hero": {
+    "playNow": "Speel nu",
+    "discord": "Discord",
+    "online": "Online"
+  },
+  "NotFound": {
+    "404": "404",
+    "pageNotFound": "Pagina niet gevonden",
+    "sorry": "Sorry, de pagina die je zoekt bestaat niet of is verplaatst.",
+    "goHome": "Ga naar de homepage"
+  },
+  "Login": {
+    "toStartShopping": "Om te beginnen met winkelen",
+    "shoppingAs": "Winkelen als {name}",
+    "javaEdition": "Java-editie",
+    "bedrockEdition": "Bedrock-editie",
+    "enterUsername": "Voer je gebruikersnaam in",
+    "discordIdOptional": "Discord ID (optioneel)",
+    "login": "Inloggen",
+    "usernameRequired": "Gebruikersnaam is verplicht",
+    "pleaseEnterUsername": "Voer je gebruikersnaam in",
+    "error": "Fout!",
+    "errorOccurred": "Er is een fout opgetreden"
+  },
+  "Join": {
+    "joinUsingIp": "Verbind via het onderstaande IP",
+    "useIpBelow": "Gebruik het onderstaande IP om verbinding te maken met de server:",
+    "javaIp": "Java IP",
+    "bedrockIp": "Bedrock IP",
+    "bedrockPort": "Bedrock-poort",
+    "close": "Sluiten",
+    "joinServer": "Verbind met de server",
+    "joinToGetRewards": "Verbind met de server om je beloningen te ontvangen!"
+  },
+  "Store": {
+    "featuredPackages": "Uitgelichte pakketten",
+    "recentPurchases": "Recente aankopen",
+    "welcome": "Welkom in de winkel van {server_name}",
+    "description": "Hier kun je munten, rangen en meer kopen voor de Minecraft-server van {server_name}! Begin met het bekijken van onze categorieën, kies iets leuks uit en klik erop om de producten te bekijken. Voeg items toe aan je winkelwagen en reken af wanneer je klaar bent. Heb je vragen? Kom dan op onze Discord-server.",
+    "paymentMethodsTitle": "Welke betaalmethoden accepteren jullie?",
+    "paymentMethods": "We accepteren verschillende betaalmethoden, waaronder PayPal, creditcards en meer.",
+    "addToCart": "Toevoegen aan winkelwagen",
+    "productAdded": "Product toegevoegd!",
+    "checkout": "Afrekenen",
+    "total": "Totaal: {amount}",
+    "buyAgain": "Opnieuw kopen",
+    "ranksComparison": "Rangen vergelijken",
+    "compareRanksAndFeatures": "Vergelijk rangen en functies",
+    "communityGoal": "Communitydoel",
+    "topDonator": "Topdonateur",
+    "needHelp": "Hulp nodig?",
+    "joinDiscordForHelp": "Kom op onze Discord-server voor hulp bij je aankoop.",
+    "joinDiscord": "Word lid van de Discord",
+    "error": "Fout!",
+    "all": "Alles"
+  },
+  "Sale": {
+    "onlyRemaining": "Nog slechts <strong>{time}</strong> over!",
+    "saleEnded": "Uitverkoop is afgelopen"
+  },
+  "Basket": {
+    "total": "Totaal: {amount}",
+    "checkout": "Afrekenen"
+  },
+  "Completed": {
+    "purchaseCompleted": "Je aankoop is voltooid!",
+    "useButtonToReturn": "Gebruik de knop hieronder om terug te gaan naar de winkel",
+    "backToStore": "Terug naar de winkel"
+  },
+  "Vote": {
+    "howToVote": "Hoe te stemmen",
+    "toEarnRewards": "Om beloningen te verdienen, moet je stemmen op {server_name} via de volgende websites:",
+    "step1": "Klik op de bovenstaande stemlink.",
+    "step2": "Voer je gebruikersnaam in en klik op de stemknop.",
+    "step3": "Wacht op het bevestigingsbericht in het spel om je stem te registreren.",
+    "thankYou": "Bedankt voor het stemmen!",
+    "yourVoteHelps": "Jouw stem helpt de server en de community te laten groeien. Bedankt voor je steun! Je ontvangt je beloningen kort na het stemmen in het spel."
+  },
+  "Rules": {
+    "title": "Regels",
+    "description": "Lees en volg alle regels om een veilige en leuke ervaring voor iedereen te garanderen.",
+    "joinServer": "Verbind met de server",
+    "joinToGetRewards": "Verbind met de server om je beloningen te ontvangen!",
+    "serverRules": "Serverregels",
+    "discordRules": "Discordregels",
+    "noCheating": "Niet vals spelen",
+    "noCheatingDesc": "Het gebruik van niet-toegestane modificaties, hacks of exploits is ten strengste verboden.",
+    "respectOthers": "Respecteer anderen",
+    "respectOthersDesc": "Behandel alle spelers en staf met respect. Pesterijen, discriminatie of haatdragende taal worden niet getolereerd.",
+    "noGriefing": "Geen griefing",
+    "noGriefingDesc": "Vernietig, steel of wijzig andermans bouwwerken of bezittingen niet zonder toestemming.",
+    "noAdvertising": "Geen reclame",
+    "noAdvertisingDesc": "Reclame maken voor andere servers of diensten is niet toegestaan.",
+    "keepChatAppropriate": "Houd de chat netjes",
+    "keepChatAppropriateDesc": "Vermijd spam, overmatig vloeken of ongepaste inhoud in de chat.",
+    "followDiscordTos": "Volg de Discord TOS",
+    "followDiscordTosDesc": "Alle leden moeten zich houden aan de Servicevoorwaarden en Richtlijnen van Discord.",
+    "noSpamming": "Niet spammen",
+    "noSpammingDesc": "Vermijd het herhaaldelijk verzenden van berichten, emoji’s of links.",
+    "respectPrivacy": "Respecteer privacy",
+    "respectPrivacyDesc": "Deel geen persoonlijke informatie van jezelf of anderen.",
+    "noNsfwContent": "Geen NSFW-inhoud",
+    "noNsfwContentDesc": "Het delen van NSFW- of ongepaste inhoud is ten strengste verboden.",
+    "useChannelsProperly": "Gebruik kanalen correct",
+    "useChannelsProperlyDesc": "Houd gesprekken relevant voor het kanaalonderwerp."
+  },
+  "Blog": {
+    "welcome": "Welkom bij de blog",
+    "discover": "Ontdek het laatste nieuws, updates en verhalen van onze community.",
+    "latest": "Laatste",
+    "readArticle": "Lees artikel",
+    "needHelp": "Hulp nodig?",
+    "joinDiscordHelp": "Kom op onze Discord-server voor hulp bij je aankoop.",
+    "joinDiscord": "Word lid van de Discord",
+    "search": "Zoeken",
+    "noPostsFound": "Geen blogberichten gevonden.",
+    "needHelpSomething": "Hulp nodig met iets?",
+    "askTeam": "Ga naar onze Discord-server en vraag ons team om hulp.",
+    "moreFromUs": "Meer van ons",
+    "exploreTopPosts": "Bekijk een aantal van onze topberichten, speciaal voor jou uitgekozen! Neem een kijkje en deel je mening.",
+    "readMore": "Lees meer",
+    "recommendedBlogs": "Aanbevolen blogs",
+    "by": "Door {name}"
+  },
+  "Categories": {
+    "more": "Meer",
+    "less": "Minder"
+  },
+  "Errors": {
+    "error": "Fout!"
+  }
+}

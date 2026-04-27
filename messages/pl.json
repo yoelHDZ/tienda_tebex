@@ -1,0 +1,143 @@
+{
+  "Navbar": {
+    "home": "Strona główna",
+    "store": "Sklep",
+    "vote": "Głosuj",
+    "blog": "Blog",
+    "rules": "Zasady",
+    "wiki": "Wiki",
+    "login": "Zaloguj się",
+    "online": "Online"
+  },
+  "Hero": {
+    "playNow": "Zagraj teraz",
+    "discord": "Discord",
+    "online": "Online"
+  },
+  "NotFound": {
+    "404": "404",
+    "pageNotFound": "Strona nie została znaleziona",
+    "sorry": "Przepraszamy, strona, której szukasz, nie istnieje lub została przeniesiona.",
+    "goHome": "Przejdź do strony głównej"
+  },
+  "Login": {
+    "toStartShopping": "Aby rozpocząć zakupy",
+    "shoppingAs": "Zakupy jako {name}",
+    "javaEdition": "Java Edition",
+    "bedrockEdition": "Bedrock Edition",
+    "enterUsername": "Wpisz swoją nazwę użytkownika",
+    "discordIdOptional": "ID Discord (opcjonalne)",
+    "login": "Zaloguj się",
+    "usernameRequired": "Nazwa użytkownika jest wymagana",
+    "pleaseEnterUsername": "Wpisz swoją nazwę użytkownika",
+    "error": "Błąd!",
+    "errorOccurred": "Wystąpił błąd"
+  },
+  "Join": {
+    "joinUsingIp": "Dołącz, używając poniższego IP",
+    "useIpBelow": "Użyj poniższego IP, aby dołączyć do serwera:",
+    "javaIp": "Java IP",
+    "bedrockIp": "Bedrock IP",
+    "bedrockPort": "Port Bedrock",
+    "close": "Zamknij",
+    "joinServer": "Dołącz do serwera",
+    "joinToGetRewards": "Dołącz do serwera, aby odebrać swoje nagrody!"
+  },
+  "Store": {
+    "featuredPackages": "Polecane pakiety",
+    "recentPurchases": "Ostatnie zakupy",
+    "welcome": "Witamy w sklepie {server_name}",
+    "description": "Tutaj możesz kupić monety, rangi i inne rzeczy dla serwera Minecraft {server_name}! Zacznij od przeglądania naszych kategorii, wybierz coś, co ci się podoba i kliknij, aby zobaczyć produkty. Dodaj przedmioty do koszyka i przejdź do kasy, gdy będziesz gotowy. Jeśli masz pytania, dołącz do naszego serwera Discord.",
+    "paymentMethodsTitle": "Jakie metody płatności akceptujecie?",
+    "paymentMethods": "Akceptujemy różne metody płatności, w tym PayPal, karty kredytowe i inne.",
+    "addToCart": "Dodaj do koszyka",
+    "productAdded": "Produkt dodany!",
+    "checkout": "Do kasy",
+    "total": "Suma: {amount}",
+    "buyAgain": "Kup ponownie",
+    "ranksComparison": "Porównanie rang",
+    "compareRanksAndFeatures": "Porównaj rangi i funkcje",
+    "communityGoal": "Cel społeczności",
+    "topDonator": "Najlepszy darczyńca",
+    "needHelp": "Potrzebujesz pomocy?",
+    "joinDiscordForHelp": "Dołącz do naszego Discorda, aby uzyskać pomoc przy zakupie.",
+    "joinDiscord": "Dołącz do Discorda",
+    "error": "Błąd!",
+    "all": "Wszystko"
+  },
+  "Sale": {
+    "onlyRemaining": "Pozostało tylko <strong>{time}</strong>!",
+    "saleEnded": "Wyprzedaż zakończona"
+  },
+  "Basket": {
+    "total": "Suma: {amount}",
+    "checkout": "Do kasy"
+  },
+  "Completed": {
+    "purchaseCompleted": "Zakup został zakończony!",
+    "useButtonToReturn": "Użyj przycisku poniżej, aby wrócić do sklepu",
+    "backToStore": "Powrót do sklepu"
+  },
+  "Vote": {
+    "howToVote": "Jak głosować",
+    "toEarnRewards": "Aby zdobyć nagrody, musisz zagłosować na {server_name} na następujących stronach:",
+    "step1": "Kliknij powyższy link do głosowania.",
+    "step2": "Wpisz swoją nazwę użytkownika i kliknij przycisk głosowania.",
+    "step3": "Poczekaj na wiadomość potwierdzającą w grze, aby zarejestrować swój głos.",
+    "thankYou": "Dziękujemy za oddanie głosu!",
+    "yourVoteHelps": "Twój głos pomaga rozwijać serwer i społeczność. Dziękujemy za wsparcie! Otrzymasz swoje nagrody w grze wkrótce po głosowaniu."
+  },
+  "Rules": {
+    "title": "Zasady",
+    "description": "Przeczytaj i przestrzegaj wszystkich zasad, aby zapewnić wszystkim bezpieczną i przyjemną rozgrywkę.",
+    "joinServer": "Dołącz do serwera",
+    "joinToGetRewards": "Dołącz do serwera, aby odebrać swoje nagrody!",
+    "serverRules": "Zasady serwera",
+    "discordRules": "Zasady Discorda",
+    "noCheating": "Bez oszukiwania",
+    "noCheatingDesc": "Wszelkie nieautoryzowane modyfikacje, hacki lub exploity są surowo zabronione.",
+    "respectOthers": "Szanuj innych",
+    "respectOthersDesc": "Traktuj wszystkich graczy i członków zespołu z szacunkiem. Nękanie, dyskryminacja lub mowa nienawiści nie będą tolerowane.",
+    "noGriefing": "Zakaz griefingu",
+    "noGriefingDesc": "Nie niszcz, nie kradnij ani nie zmieniaj budowli lub własności innych graczy bez ich zgody.",
+    "noAdvertising": "Zakaz reklamowania",
+    "noAdvertisingDesc": "Reklamowanie innych serwerów lub usług jest zabronione.",
+    "keepChatAppropriate": "Zachowuj kulturę na czacie",
+    "keepChatAppropriateDesc": "Unikaj spamu, nadmiernego przeklinania lub niestosownych treści.",
+    "followDiscordTos": "Przestrzegaj regulaminu Discorda",
+    "followDiscordTosDesc": "Wszyscy członkowie muszą przestrzegać regulaminu i wytycznych społeczności Discorda.",
+    "noSpamming": "Bez spamu",
+    "noSpammingDesc": "Unikaj powtarzających się wiadomości, emoji lub linków.",
+    "respectPrivacy": "Szanuj prywatność",
+    "respectPrivacyDesc": "Nie udostępniaj danych osobowych swoich ani innych osób.",
+    "noNsfwContent": "Bez treści NSFW",
+    "noNsfwContentDesc": "Udostępnianie treści NSFW lub nieodpowiednich jest surowo zabronione.",
+    "useChannelsProperly": "Używaj kanałów zgodnie z przeznaczeniem",
+    "useChannelsProperlyDesc": "Prowadź rozmowy zgodne z tematyką kanału."
+  },
+  "Blog": {
+    "welcome": "Witamy na blogu",
+    "discover": "Odkryj najnowsze wiadomości, aktualizacje i historie z naszej społeczności.",
+    "latest": "Najnowsze",
+    "readArticle": "Przeczytaj artykuł",
+    "needHelp": "Potrzebujesz pomocy?",
+    "joinDiscordHelp": "Dołącz do naszego Discorda, aby uzyskać pomoc przy zakupie.",
+    "joinDiscord": "Dołącz do Discorda",
+    "search": "Szukaj",
+    "noPostsFound": "Nie znaleziono postów na blogu.",
+    "needHelpSomething": "Potrzebujesz pomocy z czymś?",
+    "askTeam": "Przejdź na nasz serwer Discord i poproś nasz zespół o pomoc.",
+    "moreFromUs": "Więcej od nas",
+    "exploreTopPosts": "Poznaj nasze najlepsze posty, specjalnie wybrane dla Ciebie! Zajrzyj i podziel się swoją opinią.",
+    "readMore": "Czytaj więcej",
+    "recommendedBlogs": "Polecane wpisy",
+    "by": "Autor: {name}"
+  },
+  "Categories": {
+    "more": "Więcej",
+    "less": "Mniej"
+  },
+  "Errors": {
+    "error": "Błąd!"
+  }
+}
