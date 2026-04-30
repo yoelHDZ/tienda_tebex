@@ -18,7 +18,7 @@ export default async function Page() {
       <Anchor mb="0.6rem" display="block" c="bright" component={Link} href="/">
         <Group gap="0.4rem">
           <TbArrowLeft />
-          <Text>Exit admin</Text>
+          <Text>Salida Admin</Text>
         </Group>
       </Anchor>
       {authed ? <AdminPanel /> : <AdminLogin />}

@@ -17,7 +17,7 @@ export default async function Page() {
     if (!RankTable) {
         return (
             <Container pos="relative" style={{ zIndex: 10 }}>
-                <Text c="red" fz="lg" ta="center" mt="xl">Ranks table addon not installed. Purchase at https://buzz.dev/shop</Text>
+                <Text c="red" fz="lg" ta="center" mt="xl">PROXIMAMENTE...EN DESARROLLO</Text>
             </Container>
         );
     }
