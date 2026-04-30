@@ -47,8 +47,8 @@
   "Store": {
     "featuredPackages": "Paquetes destacados",
     "recentPurchases": "Compras recientes",
-    "welcome": "Bienvenido a la tienda de {server_name}",
-    "description": "Aquí puedes comprar monedas, rangos y más para el servidor de Minecraft {server_name}. Empieza navegando por nuestra lista de categorías, elige algo que te guste y haz clic para ver los productos. Añade los artículos a tu cesta y finaliza la compra cuando estés listo. Si tienes alguna duda, únete a nuestro servidor de Discord.",
+    "Bienvenido": "Bienvenido a la tienda de {server_name}",
+    "descripcion": "Aquí puedes comprar monedas, rangos y más para el servidor de Minecraft {server_name}. Empieza navegando por nuestra lista de categorías, elige algo que te guste y haz clic para ver los productos. Añade los artículos a tu cesta y finaliza la compra cuando estés listo. Si tienes alguna duda, únete a nuestro servidor de Discord.",
     "paymentMethodsTitle": "¿Qué métodos de pago aceptáis?",
     "paymentMethods": "Aceptamos una variedad de métodos de pago, incluidos PayPal, tarjetas de crédito y más.",
     "addToCart": "Añadir al carrito",

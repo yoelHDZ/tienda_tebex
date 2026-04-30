@@ -19,9 +19,9 @@
   "server": {
     "description": "Configuración de conexión del servidor para las ediciones Java y Bedrock.",
     "settings": {
-      "server_ip": "mc.pueblitomayico.com:33288",
-      "server_bedrock_ip": "mc.pueblitomayico.com",
-      "server_bedrock_port": "33288",
+      "server_ip": "mc.pueblitomayico.lat:33207",
+      "server_bedrock_ip": "mc.pueblitomayico.lat",
+      "server_bedrock_port": "33207",
       "bedrock_support": true
     }
   },
@@ -32,7 +32,7 @@
       "discord_invite_code": "RsZuaPueBj",
       "wiki_link": {
         "shown": false,
-        "url": "https://wiki.blockymc.com"
+        "url": "https://wiki.mcpmc.es"
       }
     }
   },
@@ -239,35 +239,35 @@
       "links": [
         {
           "name": "MC Server List",
-          "url": "https://mc-server-list.com/server/mc.pueblitomayico.com"
+          "url": "https://mc-server-list.com/server/mc.pueblitomayico.lat"
         },
         {
           "name": "Minecraft Server List",
-          "url": "https://minecraft-server-list.com/server/mc.pueblitomayico.com"
+          "url": "https://minecraft-server-list.com/server/mc.pueblitomayico.lat"
         },
         {
           "name": "Top G Servers",
-          "url": "https://topg.org/server/mc.pueblitomayico.com"
+          "url": "https://topg.org/server/mc.pueblitomayico.lat"
         },
         {
           "name": "Minecraft Servers",
-          "url": "https://minecraftservers.org/server/mc.pueblitomayico.com"
+          "url": "https://minecraftservers.org/server/mc.pueblitomayico.lat"
         },
         {
           "name": "Top Minecraft Servers",
-          "url": "https://topminecraftservers.org/server/mc.pueblitomayico.com"
+          "url": "https://topminecraftservers.org/server/mc.pueblitomayico.lat"
         },
         {
           "name": "Minecraft MP",
-          "url": "https://minecraft-mp.com/server/mc.pueblitomayico.com"
+          "url": "https://minecraft-mp.com/server/mc.pueblitomayico.lat"
         },
         {
           "name": "Minecraft Server List",
-          "url": "https://minecraft-server-list.com/server/mc.pueblitomayico.com"
+          "url": "https://minecraft-server-list.com/server/mc.pueblitomayico.lat"
         },
         {
           "name": "Minecraft Server List",
-          "url": "https://minecraft-server-list.com/server/mc.pueblitomayico.com"
+          "url": "https://minecraft-server-list.com/server/mc.pueblitomayico.lat"
         }
       ]
     }
