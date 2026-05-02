@@ -39,22 +39,26 @@
   "store": {
     "description": "Configuración de la página de la tienda incluyendo categorías, paquetes y opciones de visualización.",
     "settings": {
-      "top_categories": [],
-      "featured_categories": [
-        "2855888"
+      "top_categories": [
+        "3308262"
       ],
-      "featured_categories_label": "NUEVOS PRODUCTOS",
+      "featured_categories": [
+        "3026882",
+        "3308262"
+      ],
+      "featured_categories_label": "TOP",
       "featured_package_ids": [
-        "6589678",
-        "6589679",
-        "6589681",
-        "6589682"
+        "7416063",
+        "7424013",
+        "7416540",
+        "7416516",
+        "7420968",
+        "6975226"
       ],
       "rank_package_ids": [
-        "6606918",
-        "6606919",
-        "6606920",
-        "6606921"
+        "6975226",
+        "7034883",
+        "7034939"
       ],
       "allow_currency_switcher": true,
       "fixed_currency": "USD",
@@ -85,32 +89,32 @@
     "settings": {
       "enable_snow": false,
       "colors": {
-        "primary_color": "#0FF0EB",
-        "primary_contrast_color": "#000000",
-        "light_background_color": "#FFFFFF",
-        "dark_background_color": "#282C42",
-        "light_surface_color": "#EBEBEB",
-        "dark_surface_color": "#1C1F30",
-        "light_surface_border_color": "#E0E0E0",
-        "dark_surface_border_color": "#333750",
-        "light_shadow_color": "#C0C0C0",
-        "dark_shadow_color": "#242946",
-        "light_input_color": "#D8D8D8",
-        "dark_input_color": "#103C4E",
+        "primary_color": "#33c5b1",
+        "primary_contrast_color": "#FFFFFF",
+        "light_background_color": "#F8FAFA",
+        "dark_background_color": "#0B1211",
+        "light_surface_color": "#FFFFFF",
+        "dark_surface_color": "#172220",
+        "light_surface_border_color": "#E2E8E7",
+        "dark_surface_border_color": "#263B38",
+        "light_shadow_color": "rgba(51, 197, 177, 0.08)",
+        "dark_shadow_color": "rgba(0,0,0,0.8)",
+        "light_input_color": "#ffffff",
+        "dark_input_color": "#1F2E2B",
         "snow_color": "#FFFFFF",
         "neutral_white": "#FFFFFF",
-        "neutral_black": "#000000",
+        "neutral_black": "#080D0C",
         "neutral_gray_333": "#333333",
-        "notification_error_color": "#EB525C",
-        "notification_error_shadow_color": "#6E252A",
-        "overlay_light_60_color": "rgba(255, 255, 255, 0.6)",
-        "overlay_dark_60_color": "rgba(35, 35, 61, 0.6)",
-        "overlay_light_border_color": "rgba(200, 200, 200, 0.18)",
-        "overlay_dark_border_color": "rgba(255, 255, 255, 0.08)",
-        "hero_overlay_light_start_color": "rgba(255, 255, 255, 0.2)",
-        "hero_overlay_light_end_color": "#FFFFFF",
-        "hero_overlay_dark_start_color": "rgba(40, 44, 66, 0.2)",
-        "hero_overlay_dark_end_color": "#282C42",
+        "notification_error_color": "#E64A19",
+        "notification_error_shadow_color": "rgba(230, 74, 25, 0.2)",
+        "overlay_light_60_color": "rgba(0, 0, 0, 0.4)",
+        "overlay_dark_60_color": "rgba(0, 0, 0, 0.8)",
+        "overlay_light_border_color": "#33C5B1",
+        "overlay_dark_border_color": "#33C5B1",
+        "hero_overlay_light_start_color": "rgba(5, 197, 177, 0.9)",
+        "hero_overlay_light_end_color": "rgba(26, 45, 43, 0.7)",
+        "hero_overlay_dark_start_color": "rgba(23, 34, 32, 0.2)",
+        "hero_overlay_dark_end_color": "#0B1211",
         "notification_close_hover_color": "rgba(0, 0, 0, 0.2)",
         "admin_sidebar_hover_color": "rgba(26, 152, 206, 0.12)",
         "admin_sidebar_active_color": "rgba(26, 152, 206, 0.2)",
@@ -146,34 +150,9 @@
           "key": "en"
         },
         {
-          "flag": "/language_icons/nl.png",
-          "value": "Dutch",
-          "key": "nl"
-        },
-        {
-          "flag": "/language_icons/fr.png",
-          "value": "French",
-          "key": "fr"
-        },
-        {
-          "flag": "/language_icons/de.png",
-          "value": "German",
-          "key": "de"
-        },
-        {
           "flag": "/language_icons/es.png",
-          "value": "Spanish",
+          "value": "Español",
           "key": "es"
-        },
-        {
-          "flag": "/language_icons/pl.png",
-          "value": "Polish",
-          "key": "pl"
-        },
-        {
-          "flag": "/language_icons/tr.png",
-          "value": "Turkish",
-          "key": "tr"
         }
       ]
     }
